@@ -246,7 +246,7 @@
            return ($a + $b +$c +$d +$e);
          }
  
-         //ejercicio 7.b ----------------------
+         //ejercicio 7.b ------------------------
          function sumar5($a,$b,$c,$d,$e){
            $tmp=($a+$b+$c+$d+$e);
            return $tmp;

@@ -32,7 +32,7 @@ while ($j < count($arreglo)) {
     echo $arreglo[$j].'<br>';
     $j++;
 }
-
+//lll
 ?>
 </body>
 </html>

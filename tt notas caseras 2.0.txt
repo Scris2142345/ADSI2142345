@@ -21,7 +21,7 @@ git config --replace-all user.email "correo" - Remplazar registr
 git diff - Mostrar lo modificado
 git checkout version - Mirar la version
 git checkout master - Volver a la version principal
-gg Nagissa
+gg Nagissa ¿?
 git branch - Crear rama
 git config --global -l - Mirar sus registros
 git remote add nombredelaconexion https://github.com/CRISTHIAN431/nombredelrepositorio.git - Establecer conexion
